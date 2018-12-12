@@ -1,0 +1,10 @@
+Record from ring node on host 127.0.0.1, id: one, is: Tue Nov 27 11:29:55 GMT 2018, Token: 1
+Record from ring node on host 127.0.0.1, id: two, is: Tue Nov 27 11:29:58 GMT 2018, Token: 2
+Record from ring node on host 127.0.0.1, id: three, is: Tue Nov 27 11:30:02 GMT 2018, Token: 3
+Record from ring node on host 127.0.0.1, id: one, is: Tue Nov 27 11:30:05 GMT 2018, Token: 4
+Record from ring node on host 127.0.0.1, id: two, is: Tue Nov 27 11:30:08 GMT 2018, Token: 5
+Record from ring node on host 127.0.0.1, id: three, is: Tue Nov 27 11:30:11 GMT 2018, Token: 6
+Record from ring node on host 127.0.0.1, id: one, is: Tue Nov 27 11:30:14 GMT 2018, Token: 7
+Record from ring node on host 127.0.0.1, id: two, is: Tue Nov 27 11:30:17 GMT 2018, Token: 8
+Record from ring node on host 127.0.0.1, id: three, is: Tue Nov 27 11:30:20 GMT 2018, Token: 9
+Record from ring node on host 127.0.0.1, id: one, is: Tue Nov 27 11:30:23 GMT 2018, Token: 10
